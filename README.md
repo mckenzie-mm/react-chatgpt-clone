@@ -1,10 +1,15 @@
+# OpenAI Quickstart
 
-This project was created from the Video class of Ania Kubow:
+This project was created from the online training classes of Ania Kubow:
 
-"Learn to use OpenAI API by building ChatGPT (super simple!) | React Node.js"
+[https://www.youtube.com/@aniakubow](https://www.youtube.com/@aniakubow) 
 
-Navigate [http://localhost:8000](https://www.youtube.com/watch?v=JJ9fkYX7q4A) to view it in your browser.
+"Learn to use OpenAI API by building ChatGPT (super simple!) | React Node.js" 
 
+[https://www.youtube.com/watch?v=JJ9fkYX7q4A](https://www.youtube.com/watch?v=JJ9fkYX7q4A) 
+
+
+## FrontEnd
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
